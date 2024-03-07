@@ -1,0 +1,2 @@
+# troll
+Troll Mode
