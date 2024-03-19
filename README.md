@@ -1,6 +1,3 @@
-# troll
-Troll to the moon
+吾辈修士，何惜一战！
 
-## troll mode
-
-<img width="600" src="./image/troll-mode.jpeg"/>
+吾为天帝,当镇压世间一切敌！
