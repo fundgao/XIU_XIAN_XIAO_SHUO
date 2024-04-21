@@ -27,10 +27,6 @@
 只因幼时便知，
 人生如棋，落子无悔！
 
-```
-    凡人修仙传.txt 凡人修仙传仙界篇.txt
-    百度云盘 链接：https://pan.baidu.com/s/16GEMUNFB7IRMtvXjQw1CsQ 提取码：c3oy
-
 ## 遮天
 ```
 吾为天帝,当镇压世间一切敌！

@@ -1,5 +1,8 @@
 # [遮天三部曲](https://www.zhihu.com/question/460617442/answer/2021124530)
 
+<img width="600" src="assets/空军大帝1.webp"/>
+<img width="600" src="assets/空军大帝2.jpeg"/>
+
 ```
 在创世之初，有一个人强大到了极点。
 他为了追求更高的境界，祭掉了所有，但又不想失去所有。
