@@ -4,6 +4,8 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "中国修仙小说",
   description: "中国修仙小说集合",
+  /** 打包项目的根目录 */
+  base: "/XIU_XIAN_XIAO_SHUO/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
