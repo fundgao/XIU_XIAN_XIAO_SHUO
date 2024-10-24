@@ -29,6 +29,8 @@ features:
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
+<!-- <Home /> -->
+
 <style>
 :root {
   --vp-home-hero-name-color: transparent !important;

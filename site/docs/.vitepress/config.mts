@@ -11,6 +11,10 @@ export default defineConfig({
     nav: [
       { text: "主页", link: "/" },
       { text: "详情", link: "/markdown-examples" },
+      {
+        text: "关于我们",
+        link: "/about/page",
+      },
     ],
     sidebar: [
       {
@@ -21,5 +25,10 @@ export default defineConfig({
     socialLinks: [
       { icon: "github", link: "https://github.com/fundgao/xiuxian" },
     ],
+    // 站点页脚配置
+    footer: {
+      copyright: "Copyright © 2024-present Fund Gao",
+    },
+    lastUpdatedText: "最后更新",
   },
 });

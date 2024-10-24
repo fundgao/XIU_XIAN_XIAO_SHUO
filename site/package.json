@@ -6,5 +6,9 @@
   },
   "devDependencies": {
     "vitepress": "^1.4.1"
+  },
+  "dependencies": {
+    "sass": "^1.80.4",
+    "vue": "^3.5.12"
   }
 }
