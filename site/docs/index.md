@@ -9,24 +9,16 @@ hero:
   name: "中国修仙小说"
   text: ""
   tagline: 《凡人修仙传》《遮天》《仙逆》《满清条约》《诛仙》《斗破苍穹》《永生》《道诡异仙》《剑来》
-  actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
-    - theme: alt
-      text: GitHub
-      link: https://github.com/fundgao/xiuxian
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 凡人修仙传
+    details: 作者忘语，自2008年2月20日起在起点中文网上连载的网络小说作品，于2013年9月23日完结。
+    link: /fanren/page
+  - title: 遮天
+    details: 作者辰东，连载时间为2010年10月14日至2013年5月21日。
+    link: /zhetian/page
+  - title: 仙逆
+    details: 作者耳根，自2009年6月8日起在起点中文网上连载的网络小说作品，于2012年1月8日完结。
 ---
 
 <!-- <Home /> -->
