@@ -18,7 +18,7 @@ hero:
       link: /api-examples
     - theme: alt
       text: GitHub
-      link: https://github.com/fundgao/XIU_XIAN_XIAO_SHUO
+      link: https://github.com/fundgao/xiuxian
 
 features:
   - title: Feature A
@@ -31,11 +31,11 @@ features:
 
 <style>
 :root {
-  --vp-home-hero-name-color: transparent;
-  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #bd34fe 30%, #41d1ff);
+  --vp-home-hero-name-color: transparent !important;
+  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #bd34fe 30%, #41d1ff) !important;
 
-  --vp-home-hero-image-background-image: linear-gradient(-45deg, #bd34fe 50%, #47caff 50%);
-  --vp-home-hero-image-filter: blur(44px);
+  --vp-home-hero-image-background-image: linear-gradient(-45deg, #bd34fe 50%, #47caff 50%) !important;
+  --vp-home-hero-image-filter: blur(44px) !important;
 }
 
 @media (min-width: 640px) {

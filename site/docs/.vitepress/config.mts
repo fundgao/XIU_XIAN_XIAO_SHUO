@@ -5,7 +5,7 @@ export default defineConfig({
   title: "中国修仙小说",
   description: "中国修仙小说集合",
   /** 打包项目的根目录 */
-  base: "/XIU_XIAN_XIAO_SHUO/",
+  base: "/xiuxian/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -19,7 +19,7 @@ export default defineConfig({
       },
     ],
     socialLinks: [
-      { icon: "github", link: "https://github.com/fundgao/XIU_XIAN_XIAO_SHUO" },
+      { icon: "github", link: "https://github.com/fundgao/xiuxian" },
     ],
   },
 });
