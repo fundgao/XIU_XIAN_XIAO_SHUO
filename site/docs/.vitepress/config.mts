@@ -110,7 +110,7 @@ export default defineConfig({
                 text: "人物",
                 collapsed: true,
                 items: [
-                  { text: "叶凡", link: "/page" },
+                  { text: "叶凡", link: "/yefan" },
                   { text: "姬紫月", link: "/page" },
                   { text: "安妙依", link: "/page" },
                   { text: "晨曦", link: "/page" },
